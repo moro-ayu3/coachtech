@@ -1,0 +1,35 @@
+h1 {
+  color: #00008b;
+  font-size: 30px;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+li {
+  color: #00008b;
+  font-size: 30px;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+p {
+  color: black;
+  font-size: 150px;
+}
+.absolute  {
+  position: absolutes;
+  bottom: 80px;
+  left: 500px;
+}
+.img {
+  width: 400px;
+  height: 300px;
+}
+.relative {
+  position: relative;
+  bottom: 15px;
+  right: 150px;
+}
+.blue-box {
+  width: 800px;
+  height: 40px;
+  background-color: #00008b;
+}
